@@ -1,3 +1,4 @@
 # testing
 
-sample test 1
+sample test1
+samoke test2
